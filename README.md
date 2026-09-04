@@ -9,7 +9,7 @@ Computer Science graduate with 5+ years of programming experience across multipl
 * 🌍  I'm based in North Carolina
 * 🖥️  See my portfolio at [Portfolio](http://wolfyman411.github.io/portfolio/)
 * ✉️  You can contact me at [eliwhuffman@gmail.com](mailto:eliwhuffman@gmail.com)
-* 🧠  I'm currently learning Figma
+* 🧠  I'm currently learning WordPress
 * 👥  I'm looking to collaborate on Web based applications
 
 <p align="left">
