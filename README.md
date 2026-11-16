@@ -1,7 +1,7 @@
 Hi 👋 My name is Eli Huffman
 ============================
 
-Full Stack Software Engineer
+Fullstack Software Engineer
 ----------------------------
 
 Computer Science graduate with 5+ years of programming experience across multiple languages. I've built websites, games, and client-driven applications. I'm a strong collaborator who turns complex requirements into clean, working code.
@@ -70,6 +70,9 @@ Computer Science graduate with 5+ years of programming experience across multipl
 	</a>
 	<a href="https://www.vuejs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="VueJS" title="VueJS" width="36" height="36" />
+	</a>
+	<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="VueJS" title="VueJS" width="36" height="36" />
 	</a>
 </p>
 
