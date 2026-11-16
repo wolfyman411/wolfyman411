@@ -72,7 +72,7 @@ Computer Science graduate with 5+ years of programming experience across multipl
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="VueJS" title="VueJS" width="36" height="36" />
 	</a>
 	<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="VueJS" width="36" height="36" />
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" />
 	</a>
 </p>
 
